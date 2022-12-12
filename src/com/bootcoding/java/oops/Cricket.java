@@ -6,6 +6,7 @@ public class Cricket {
     String bestBatsman;
     int highestScore;
     public void batting(){
+
         System.out.println("Match Started");
     }
     public void print(){
